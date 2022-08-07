@@ -1,0 +1,1 @@
+console.log("$" + (+(prompt("Enter The price"))).toFixed(2));
